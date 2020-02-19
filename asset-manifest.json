@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Recipes_Search_React_App/static/css/main.cd23957a.chunk.css",
+    "main.js": "/Recipes_Search_React_App/static/js/main.7f5c2741.chunk.js",
+    "main.js.map": "/Recipes_Search_React_App/static/js/main.7f5c2741.chunk.js.map",
+    "runtime-main.js": "/Recipes_Search_React_App/static/js/runtime-main.6ff56e01.js",
+    "runtime-main.js.map": "/Recipes_Search_React_App/static/js/runtime-main.6ff56e01.js.map",
+    "static/js/2.663b31ec.chunk.js": "/Recipes_Search_React_App/static/js/2.663b31ec.chunk.js",
+    "static/js/2.663b31ec.chunk.js.map": "/Recipes_Search_React_App/static/js/2.663b31ec.chunk.js.map",
+    "index.html": "/Recipes_Search_React_App/index.html",
+    "precache-manifest.43c7586591a0c600a52fe29251943b5e.js": "/Recipes_Search_React_App/precache-manifest.43c7586591a0c600a52fe29251943b5e.js",
+    "service-worker.js": "/Recipes_Search_React_App/service-worker.js",
+    "static/css/main.cd23957a.chunk.css.map": "/Recipes_Search_React_App/static/css/main.cd23957a.chunk.css.map",
+    "static/js/2.663b31ec.chunk.js.LICENSE.txt": "/Recipes_Search_React_App/static/js/2.663b31ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ff56e01.js",
+    "static/js/2.663b31ec.chunk.js",
+    "static/css/main.cd23957a.chunk.css",
+    "static/js/main.7f5c2741.chunk.js"
+  ]
+}
